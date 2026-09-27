@@ -1,4 +1,5 @@
 {
-  "version": "1.0",
-  "changelog": "Улучшен дизайн, добавлены анимации кнопок"
+  "version": "0.9",
+  "changelog": "Улучшен дизайн, добавлены анимации кнопок, скачивание APK",
+  "apk_url": "https://github.com/chemphack037/My-Files/raw/main/Koloriy.apk"
 }
